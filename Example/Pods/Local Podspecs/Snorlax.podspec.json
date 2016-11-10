@@ -1,0 +1,22 @@
+{
+  "name": "Snorlax",
+  "version": "0.1.0",
+  "summary": "A short description of Snorlax.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Snorlax",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ziad Tamim": "tamim.ziad@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Snorlax.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Snorlax/Classes/**/*"
+}
